@@ -1,4 +1,5 @@
 # node-todo-cicd
+echo "Hello"
 
 Run these commands:
 
